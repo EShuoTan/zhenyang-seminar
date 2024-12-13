@@ -3,7 +3,7 @@
 使用GitHub Pages功能公开的网页可以从[这里](https://elmas3.github.io/mao-seminar/)访问：
 https://elmas3.github.io/mao-seminar/
 
-# 目录
+# 目录!
 ```
 seminar/
 ├─ index.html        # 首页
